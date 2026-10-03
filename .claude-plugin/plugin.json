@@ -1,0 +1,13 @@
+{
+  "name": "dev-workflow",
+  "version": "1.0.0",
+  "description": "Workflow padrão de desenvolvimento: um ciclo só (contexto → verificação → implementação → review → entrega) com profundidade escolhida pelo risco.",
+  "author": {
+    "name": "Guilherme Alencar",
+    "url": "https://github.com/Alencar-png"
+  },
+  "homepage": "https://github.com/Alencar-png/dev-workflow",
+  "repository": "https://github.com/Alencar-png/dev-workflow",
+  "license": "MIT",
+  "keywords": ["workflow", "code-review", "testing", "claude-code", "ponytail"]
+}

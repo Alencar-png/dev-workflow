@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "dev-workflow",
+  "description": "Workflow padrão de desenvolvimento para agentes de código, com profundidade por risco.",
+  "owner": {
+    "name": "Guilherme Alencar",
+    "url": "https://github.com/Alencar-png"
+  },
+  "plugins": [
+    {
+      "name": "dev-workflow",
+      "description": "Um ciclo só, profundidade pelo risco, verificação real e review independente.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
